@@ -1,0 +1,1558 @@
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 0
+"../../../Engine/Content/EngineMeshes/Humanoid.uexp" 1
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroFPP/HeroFPP_Skeleton.uasset" 2
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroFPP/HeroFPP_Skeleton.uexp" 3
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherEquip.uasset" 4
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherEquip.uexp" 5
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_LauncherEquip_Montage.uasset" 6
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_LauncherEquip_Montage.uexp" 7
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherAimFire.uasset" 8
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherAimFire.uexp" 9
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherFire.uasset" 10
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherFire.uexp" 11
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_LauncherFire_Montage.uasset" 12
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_LauncherFire_Montage.uexp" 13
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LanucherReload.uasset" 14
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LanucherReload.uexp" 15
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_LauncherReload_Montage.uasset" 16
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_LauncherReload_Montage.uexp" 17
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleEquip.uasset" 18
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleEquip.uexp" 19
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_RifleEquip_Montage.uasset" 20
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_RifleEquip_Montage.uexp" 21
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleReload.uasset" 22
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleReload.uexp" 23
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_RifleReload_Montage.uasset" 24
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HeroFPP_RifleReload_Montage.uexp" 25
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleAimFire.uasset" 26
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleAimFire.uexp" 27
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleFire.uasset" 28
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleFire.uexp" 29
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HerroFPP_RifleFire_Montage.uasset" 30
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/HerroFPP_RifleFire_Montage.uexp" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 32
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 33
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 34
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 35
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset" 36
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uexp" 37
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 38
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uexp" 39
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_TintAllChannels.uasset" 40
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_TintAllChannels.uexp" 41
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_D.uasset" 42
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_D.uexp" 43
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_D.ubulk" 44
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/Textures/T_Vista_Grass_N.uasset" 45
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/Textures/T_Vista_Grass_N.uexp" 46
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/Textures/T_Vista_Grass_N.ubulk" 47
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Base.uasset" 48
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Base.uexp" 49
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_02_M.uasset" 50
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_02_M.uexp" 51
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_02_M.ubulk" 52
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_M.uasset" 53
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_M.uexp" 54
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_M.ubulk" 55
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Emissive_Custom.uasset" 56
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Emissive_Custom.uexp" 57
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Tiles/T_Sctraches_01.uasset" 58
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Tiles/T_Sctraches_01.uexp" 59
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Tiles/T_Sctraches_01.ubulk" 60
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Glass.uasset" 61
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Glass.uexp" 62
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Metal_02.uasset" 63
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Metal_02.uexp" 64
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Metal_02.ubulk" 65
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Metal_light.uasset" 66
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Metal_light.uexp" 67
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Metal_01.uasset" 68
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Metal_01.uexp" 69
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Metal_01.ubulk" 70
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Metal_Painted.uasset" 71
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Metal_Painted.uexp" 72
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Rubber_dark.uasset" 73
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Rubber_dark.uexp" 74
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Fabric_N_01.uasset" 75
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Fabric_N_01.uexp" 76
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_Fabric_N_01.ubulk" 77
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Rubber_light.uasset" 78
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/ML_Rubber_light.uexp" 79
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_M_03tga.uasset" 80
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_M_03tga.uexp" 81
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_M_03tga.ubulk" 82
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_N.uasset" 83
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Textures/Chr_FPS_N.uexp" 84
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_BodyDamage.uasset" 85
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_BodyDamage.uexp" 86
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/HeroTPP.uasset" 87
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/Materials/HeroTPP.uexp" 88
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroFPP/HeroFPP.uasset" 89
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroFPP/HeroFPP.uexp" 90
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherJumpEnd.uasset" 91
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherJumpEnd.uexp" 92
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherIdle.uasset" 93
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherIdle.uexp" 94
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherAim.uasset" 95
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherAim.uexp" 96
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherJumpLoop.uasset" 97
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherJumpLoop.uexp" 98
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherJumpStart.uasset" 99
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherJumpStart.uexp" 100
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherRoadieRun.uasset" 101
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherRoadieRun.uexp" 102
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherRun.uasset" 103
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_LauncherRun.uexp" 104
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleAim.uasset" 105
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleAim.uexp" 106
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleIdle.uasset" 107
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleIdle.uexp" 108
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleJumpEnd.uasset" 109
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleJumpEnd.uexp" 110
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleJumpLoop.uasset" 111
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleJumpLoop.uexp" 112
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleJumpStart.uasset" 113
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleJumpStart.uexp" 114
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleRoadieRun.uasset" 115
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleRoadieRun.uexp" 116
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleRun.uasset" 117
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/FPP_Animations/FPP_RifleRun.uexp" 118
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Metal.uasset" 119
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Metal.uexp" 120
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 121
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 122
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Concrete.uasset" 123
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Concrete.uexp" 124
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Grass.uasset" 125
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Grass.uexp" 126
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Glass.uasset" 127
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Glass.uexp" 128
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Tile.uasset" 129
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/PhysicalMaterials/M_Tile.uexp" 130
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroFPP/HeroFPP_AnimationBlueprint.uasset" 131
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroFPP/HeroFPP_AnimationBlueprint.uexp" 132
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_Skeleton.uasset" 133
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_Skeleton.uexp" 134
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Idle.uasset" 135
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Idle.uexp" 136
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Run_Bwd.uasset" 137
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Run_Bwd.uexp" 138
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Run_Fwd.uasset" 139
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Run_Fwd.uexp" 140
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Run_Lt.uasset" 141
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Run_Lt.uexp" 142
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Run_Rt.uasset" 143
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Run_Rt.uexp" 144
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/RunTPP.uasset" 145
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/RunTPP.uexp" 146
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetDown.uasset" 147
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetDown.uexp" 148
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetLeft.uasset" 149
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetLeft.uexp" 150
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetLeftDown.uasset" 151
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetLeftDown.uexp" 152
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetLeftUp.uasset" 153
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetLeftUp.uexp" 154
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetRight.uasset" 155
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetRight.uexp" 156
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetRightDown.uasset" 157
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetRightDown.uexp" 158
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetRightUp.uasset" 159
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetRightUp.uexp" 160
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetUp.uasset" 161
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetUp.uexp" 162
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetFwd.uasset" 163
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/AimOffsetFwd.uexp" 164
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_AimOffsets.uasset" 165
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_AimOffsets.uexp" 166
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/JumpEnd.uasset" 167
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/JumpEnd.uexp" 168
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Equip.uasset" 169
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Equip.uexp" 170
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/JumpLoop.uasset" 171
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/JumpLoop.uexp" 172
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/JumpStart.uasset" 173
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/JumpStart.uexp" 174
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/RoadieRun_Fwd.uasset" 175
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/RoadieRun_Fwd.uexp" 176
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_AnimBlueprint.uasset" 177
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_AnimBlueprint.uexp" 178
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Death.uasset" 179
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Death.uexp" 180
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_Death.uasset" 181
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_Death.uexp" 182
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_Equip.uasset" 183
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_Equip.uexp" 184
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Launcher_Reload.uasset" 185
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Launcher_Reload.uexp" 186
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTTP_LauncherReload.uasset" 187
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTTP_LauncherReload.uexp" 188
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 189
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 190
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 191
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 192
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Reload.uasset" 193
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Animations/TTP_Animations/Reload.uexp" 194
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTTP_RifleReload.uasset" 195
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTTP_RifleReload.uexp" 196
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/MyAnimations/BS_LocomotionWalk.uasset" 197
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/MyAnimations/BS_LocomotionWalk.uexp" 198
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Basic_Wall.uasset" 199
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Basic_Wall.uexp" 200
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Pillar_50x500.uasset" 201
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Pillar_50x500.uexp" 202
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_400x300.uasset" 203
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_400x300.uexp" 204
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_400x400.uasset" 205
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_400x400.uexp" 206
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_500x500.uasset" 207
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_500x500.uexp" 208
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 209
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 210
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 211
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 212
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Collapse01.uasset" 213
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Collapse01.uexp" 214
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Collapse02.uasset" 215
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Collapse02.uexp" 216
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Explosion01.uasset" 217
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Explosion01.uexp" 218
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Explosion02.uasset" 219
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Explosion02.uexp" 220
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Fire01.uasset" 221
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Fire01.uexp" 222
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Fire_Sparks01.uasset" 223
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Fire_Sparks01.uexp" 224
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Light01.uasset" 225
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Light01.uexp" 226
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Light01_Cue.uasset" 227
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Light01_Cue.uexp" 228
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Light02.uasset" 229
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Light02.uexp" 230
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Light02_Cue.uasset" 231
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Light02_Cue.uexp" 232
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Smoke01.uasset" 233
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Smoke01.uexp" 234
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Birds01.uasset" 235
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Birds01.uexp" 236
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Music01.uasset" 237
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Music01.uexp" 238
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Wind05.uasset" 239
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Wind05.uexp" 240
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Wind06.uasset" 241
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Wind06.uexp" 242
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Steam01.uasset" 243
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Steam01.uexp" 244
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Explosion_Cue.uasset" 245
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Explosion_Cue.uexp" 246
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 247
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 248
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 249
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 250
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 251
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 252
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 253
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 254
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 256
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 257
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 258
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 259
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 260
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 261
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 262
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 263
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 264
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 265
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Burst_M.uasset" 266
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Burst_M.uexp" 267
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Burst_M.ubulk" 268
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Burst.uasset" 269
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Burst.uexp" 270
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Explosion.uasset" 271
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Explosion.uexp" 272
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 273
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 274
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 275
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 276
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 277
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 278
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 279
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Bush_N.uasset" 280
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Bush_N.uexp" 281
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Bush_N.ubulk" 282
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Bush_D.uasset" 283
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Bush_D.uexp" 284
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Bush_D.ubulk" 285
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Bush.uasset" 286
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Bush.uexp" 287
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Bush.uasset" 288
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Bush.uexp" 289
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Chair_N.uasset" 290
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Chair_N.uexp" 291
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Chair_N.ubulk" 292
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Chair_M.uasset" 293
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Chair_M.uexp" 294
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Chair_M.ubulk" 295
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Chair.uasset" 296
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Chair.uexp" 297
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Couch.uasset" 298
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Couch.uexp" 299
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Door_N.uasset" 300
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Door_N.uexp" 301
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Door_N.ubulk" 302
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Door_M.uasset" 303
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Door_M.uexp" 304
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Door_M.ubulk" 305
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Door.uasset" 306
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Door.uexp" 307
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Glass.uasset" 308
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Glass.uexp" 309
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Door.uasset" 310
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Door.uexp" 311
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 312
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 313
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 314
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 315
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 316
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 317
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_RockMesh_N.uasset" 318
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_RockMesh_N.uexp" 319
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 320
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_RockMesh_M.uasset" 321
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_RockMesh_M.uexp" 322
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 323
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 324
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 325
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 326
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 327
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 328
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 329
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Rock.uasset" 330
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Rock.uexp" 331
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Rock.uasset" 332
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Rock.uexp" 333
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Shelf_N.uasset" 334
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Shelf_N.uexp" 335
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Shelf_N.ubulk" 336
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Shelf_M.uasset" 337
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Shelf_M.uexp" 338
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Shelf_M.ubulk" 339
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Shelf.uasset" 340
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Shelf.uexp" 341
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Shelf.uasset" 342
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Shelf.uexp" 343
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Basic_Floor.uasset" 344
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Basic_Floor.uexp" 345
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Stairs.uasset" 346
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Stairs.uexp" 347
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Cone.uasset" 348
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Cone.uexp" 349
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 350
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 351
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 352
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 353
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Pipe.uasset" 354
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Pipe.uexp" 355
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 356
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 357
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 358
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 359
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Plane.uasset" 360
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Plane.uexp" 361
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Torus.uasset" 362
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Torus.uexp" 363
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Trim.uasset" 364
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Trim.uexp" 365
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 366
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 367
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 368
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 369
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 370
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 371
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Tube.uasset" 372
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Tube.uexp" 373
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 374
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 375
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 376
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 377
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 378
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 379
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Launcher_Skeleton.uasset" 380
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Launcher_Skeleton.uexp" 381
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_Decals.uasset" 382
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_Decals.uexp" 383
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_Decals.ubulk" 384
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT2_shade.uasset" 385
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT2_shade.uexp" 386
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT2_shade.ubulk" 387
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT2_section.uasset" 388
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT2_section.uexp" 389
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT2_section.ubulk" 390
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/Launcher_02_N.uasset" 391
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/Launcher_02_N.uexp" 392
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/Launcher_02_N.ubulk" 393
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Decal.uasset" 394
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Decal.uexp" 395
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_RoughnessOverride.uasset" 396
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_RoughnessOverride.uexp" 397
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive.uasset" 398
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive.uexp" 399
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_Rubber.uasset" 400
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_Rubber.uexp" 401
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_Rubber.ubulk" 402
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_Rubber.uasset" 403
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_Rubber.uexp" 404
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_PaintedMetal02.uasset" 405
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_PaintedMetal02.uexp" 406
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_PaintedMetal02.ubulk" 407
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_PaintedMetal01_N.uasset" 408
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_PaintedMetal01_N.uexp" 409
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_PaintedMetal01_N.ubulk" 410
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_Paint.uasset" 411
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_Paint.uexp" 412
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_Metal_Metal02_D.uasset" 413
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_Metal_Metal02_D.uexp" 414
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_Metal_Metal02_D.ubulk" 415
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_Metal_Gray.uasset" 416
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_Metal_Gray.uexp" 417
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uasset" 418
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uexp" 419
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.ubulk" 420
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_Metal_Copper.uasset" 421
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_Metal_Copper.uexp" 422
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_BoltMetal.uasset" 423
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/MaterialLayers/ML_BoltMetal.uexp" 424
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/Launcher_MatB.uasset" 425
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/Launcher_MatB.uexp" 426
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/Launcher_MatB_Inst.uasset" 427
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/Launcher_MatB_Inst.uexp" 428
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT1_shade.uasset" 429
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT1_shade.uexp" 430
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT1_shade.ubulk" 431
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT1_section.uasset" 432
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT1_section.uexp" 433
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/LauncherT1_section.ubulk" 434
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/Launcher_01_N.uasset" 435
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/Launcher_01_N.uexp" 436
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/Launcher_01_N.ubulk" 437
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/Launcher_MatA.uasset" 438
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/Launcher_MatA.uexp" 439
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/Launcher_MatA_Inst.uasset" 440
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/Launcher_MatA_Inst.uexp" 441
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Launcher.uasset" 442
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Launcher.uexp" 443
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Rifle_Skeleton.uasset" 444
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Rifle_Skeleton.uexp" 445
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/Textures/holo_layer_1_5.uasset" 446
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/Textures/holo_layer_1_5.uexp" 447
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Environment/Textures/holo_layer_1_5.ubulk" 448
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/SightLens_maskB.uasset" 449
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/SightLens_maskB.uexp" 450
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/SightLens_maskB.ubulk" 451
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/SightLens_maskA.uasset" 452
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/SightLens_maskA.uexp" 453
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/SightLens_maskA.ubulk" 454
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_SightLens_Mat.uasset" 455
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_SightLens_Mat.uexp" 456
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_SightLens_Mat_Inst.uasset" 457
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_SightLens_Mat_Inst.uexp" 458
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT2_shade.uasset" 459
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT2_shade.uexp" 460
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT2_shade.ubulk" 461
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT2_section.uasset" 462
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT2_section.uexp" 463
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT2_section.ubulk" 464
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_Display_EM.uasset" 465
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_Display_EM.uexp" 466
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_Display_EM.ubulk" 467
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_02_N.uasset" 468
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_02_N.uexp" 469
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_02_N.ubulk" 470
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_MatB.uasset" 471
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_MatB.uexp" 472
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_MatB_Inst2.uasset" 473
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_MatB_Inst2.uexp" 474
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT1_shade.uasset" 475
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT1_shade.uexp" 476
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT1_shade.ubulk" 477
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT1_section.uasset" 478
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT1_section.uexp" 479
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGunT1_section.ubulk" 480
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_01_N.uasset" 481
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_01_N.uexp" 482
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Textures/MagGun_01_N.ubulk" 483
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_MatA.uasset" 484
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_MatA.uexp" 485
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_MatA_Inst3.uasset" 486
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Materials/MagGun_MatA_Inst3.uexp" 487
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Rifle.uasset" 488
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Weapons/Rifle.uexp" 489
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 490
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 491
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 492
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 493
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 494
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 495
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 496
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 497
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 498
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 499
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 500
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 501
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 502
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 503
+"../../../Engine/Content/BasicShapes/Cone.uasset" 504
+"../../../Engine/Content/BasicShapes/Cone.uexp" 505
+"../../../Engine/Content/BasicShapes/Cube.uasset" 506
+"../../../Engine/Content/BasicShapes/Cube.uexp" 507
+"../../../Engine/Content/BasicShapes/Plane.uasset" 508
+"../../../Engine/Content/BasicShapes/Plane.uexp" 509
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 510
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 511
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 512
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 513
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 514
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 515
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 516
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 517
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 518
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 519
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 520
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 521
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 522
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 523
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 524
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 525
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 526
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 527
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 528
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 529
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 530
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 531
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 532
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 533
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 534
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 535
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 536
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 537
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 538
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 539
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 540
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 541
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 542
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 543
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 544
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 545
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 546
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 547
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 548
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 549
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 550
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 551
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 552
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 553
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 554
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 555
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 556
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 557
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 558
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 559
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 560
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 561
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 562
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 563
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 564
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 565
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 566
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 567
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 568
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 569
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 570
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 571
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 572
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 573
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 574
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 575
+"../../../Engine/Content/EditorResources/S_Note.uasset" 576
+"../../../Engine/Content/EditorResources/S_Note.uexp" 577
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 578
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 579
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 580
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 581
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 582
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 583
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 584
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 585
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 586
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 587
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 588
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 589
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.ubulk" 590
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 591
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 592
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk" 593
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 594
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 595
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 596
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 597
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 598
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 599
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 600
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 601
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 602
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 603
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 604
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 605
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 606
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 607
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 608
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 611
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 612
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 614
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 615
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 616
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 617
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 618
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 619
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 620
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 621
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 622
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 623
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 624
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 625
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 626
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 627
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 628
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 629
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 630
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 631
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 632
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 633
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 634
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 635
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 636
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 637
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 638
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 639
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 640
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 641
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 642
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 643
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 644
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 645
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 646
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 647
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 648
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 649
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 650
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 651
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 652
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 653
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 654
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 655
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 656
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 657
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 658
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 659
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 660
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 661
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 662
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 663
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 664
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 665
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 666
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 667
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 668
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 669
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 670
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 671
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 672
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 673
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 674
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 675
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 676
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 677
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 678
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 679
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 680
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 681
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 682
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 683
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 684
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 685
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 686
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 687
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 688
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 689
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 690
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 691
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 692
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 693
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 694
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 695
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 696
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 697
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 698
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 699
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 700
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 701
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 702
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 703
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 704
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 705
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 706
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 707
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 708
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 709
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 710
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 711
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 712
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 713
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 714
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 715
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 716
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 717
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 718
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 719
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 720
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 721
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 722
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 723
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 724
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 725
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 726
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 727
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 728
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 729
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 730
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 731
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 732
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 733
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 734
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 735
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 736
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 737
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 738
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 739
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 740
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 741
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 742
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 743
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 744
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 745
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 746
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 747
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 748
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 749
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 750
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 751
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 752
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 753
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 754
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 755
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 756
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 757
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 758
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 759
+"../../../Engine/Content/EngineSounds/Master.uasset" 760
+"../../../Engine/Content/EngineSounds/Master.uexp" 761
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 762
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 763
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 764
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 765
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 766
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 767
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 768
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 769
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 770
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 771
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 772
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 773
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 774
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 775
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 776
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 777
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 778
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 779
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 780
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 781
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 782
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 783
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 784
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 785
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 786
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 787
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 788
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 789
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 790
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 791
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 792
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 793
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 794
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 795
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 796
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 797
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 798
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 799
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 800
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 801
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 802
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 803
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 804
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 805
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 806
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 807
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 808
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 809
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 810
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 811
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 812
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uexp" 813
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 814
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uexp" 815
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 816
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 817
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 818
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 819
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 820
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 821
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 822
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 823
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 824
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 825
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 826
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 827
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 828
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 829
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 830
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 831
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 832
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 833
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 834
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 835
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 836
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 837
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 838
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 839
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 840
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 841
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 842
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 843
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 844
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 845
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 846
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 847
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 848
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 849
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 850
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 851
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 852
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 853
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 854
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 855
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 856
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 857
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 858
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 859
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 860
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 861
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 862
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 863
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 864
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 865
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 866
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 867
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 868
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 869
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 870
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 871
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 872
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 873
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 874
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 875
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 876
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 877
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 878
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 879
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 880
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 881
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 882
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 883
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 884
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 885
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 886
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 887
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 888
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 889
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 890
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 891
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 892
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 893
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 894
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 895
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 896
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 897
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 898
+"../../../Engine/Content/EngineResources/Black.uasset" 899
+"../../../Engine/Content/EngineResources/Black.uexp" 900
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 901
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 902
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 903
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 904
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 905
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp" 906
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 907
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp" 908
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.ubulk" 909
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 910
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 911
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 912
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 913
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 914
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 915
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 916
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 917
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 918
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 919
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 920
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 921
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 922
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 923
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 924
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 925
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 926
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 927
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 928
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp" 929
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 930
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp" 931
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 932
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp" 933
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.ubulk" 934
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 935
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp" 936
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 937
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp" 938
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 939
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp" 940
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.ubulk" 941
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 942
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp" 943
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.ubulk" 944
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 945
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp" 946
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 947
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp" 948
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 949
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp" 950
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 951
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 952
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 953
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 954
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 955
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 956
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 957
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 958
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 959
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 960
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 961
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 962
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 963
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp" 964
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.ubulk" 965
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 966
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp" 967
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.ubulk" 968
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 969
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp" 970
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 971
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp" 972
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 973
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp" 974
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 975
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp" 976
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.ubulk" 977
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 978
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp" 979
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.ubulk" 980
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 981
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp" 982
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 983
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp" 984
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 985
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 986
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 987
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 988
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 989
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 990
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 991
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 992
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 993
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 994
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 995
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 996
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 997
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 998
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 999
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 1000
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 1001
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1002
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 1003
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 1004
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1005
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 1006
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1007
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp" 1008
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 1009
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp" 1010
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.ubulk" 1011
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 1012
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp" 1013
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 1014
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp" 1015
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1016
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp" 1017
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1018
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 1019
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 1020
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 1021
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/MyAnimations/BS_LocomotionRun.uasset" 1022
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/MyAnimations/BS_LocomotionRun.uexp" 1023
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/MyAnimations/ABP_BaseCharacter.uasset" 1024
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/MyAnimations/ABP_BaseCharacter.uexp" 1025
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_Physics.uasset" 1026
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP_Physics.uexp" 1027
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP.uasset" 1028
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Characters/HeroTPP/HeroTPP.uexp" 1029
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/BP_STUBaseCharacter.uasset" 1030
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/BP_STUBaseCharacter.uexp" 1031
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/BP_STUPlayerController.uasset" 1032
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Player/BP_STUPlayerController.uexp" 1033
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/BP_STUGameModeBase.uasset" 1034
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/BP_STUGameModeBase.uexp" 1035
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1036
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1037
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1038
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1039
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1040
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1041
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1042
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1043
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1044
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1045
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1046
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1047
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1048
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1049
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1050
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1051
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1052
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1053
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1054
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1055
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1056
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Levels/TestLevel_BuiltData.uasset" 1057
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Levels/TestLevel_BuiltData.uexp" 1058
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Levels/TestLevel_BuiltData.ubulk" 1059
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Levels/TestLevel.uexp" 1060
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/Levels/TestLevel.umap" 1061
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1062
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_AssetPlatform.uexp" 1063
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1064
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 1065
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1066
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 1067
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1068
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 1069
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 1070
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1071
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 1072
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1073
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 1074
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1075
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 1076
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1077
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 1078
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1079
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 1080
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1081
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 1082
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 1083
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1084
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 1085
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1086
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 1087
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1088
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 1089
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1090
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 1091
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1092
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 1093
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1094
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 1095
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1096
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 1097
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1098
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 1099
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1100
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 1101
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1102
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 1103
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1104
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 1105
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1106
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 1107
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Advanced_Lighting.uexp" 1108
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Advanced_Lighting.umap" 1109
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Floor_400x400.uasset" 1110
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Floor_400x400.uexp" 1111
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1112
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 1113
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1114
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1115
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1116
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1117
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_MacroVariation.uasset" 1118
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_MacroVariation.uexp" 1119
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1120
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Copper.uexp" 1121
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1122
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 1123
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1124
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 1125
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 1126
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1127
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 1128
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Minimal_Default.uexp" 1129
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/Minimal_Default.umap" 1130
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_400x200.uasset" 1131
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_400x200.uexp" 1132
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1133
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1134
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1135
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1136
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Collapse_Cue.uasset" 1137
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Collapse_Cue.uexp" 1138
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1139
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Sphere.uexp" 1140
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1141
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 1142
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Cube.uasset" 1143
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Shapes/Shape_Cube.uexp" 1144
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Frame_N.uasset" 1145
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Frame_N.uexp" 1146
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Frame_N.ubulk" 1147
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Frame_M.uasset" 1148
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Frame_M.uexp" 1149
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Frame_M.ubulk" 1150
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Frame.uasset" 1151
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Frame.uexp" 1152
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_WindowFrame.uasset" 1153
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_WindowFrame.uexp" 1154
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_TableRound_N.uasset" 1155
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_TableRound_N.uexp" 1156
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_TableRound_N.ubulk" 1157
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_TableRound_M.uasset" 1158
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_TableRound_M.uexp" 1159
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_TableRound_M.ubulk" 1160
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1161
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_TableRound.uexp" 1162
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_TableRound.uasset" 1163
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_TableRound.uexp" 1164
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Statue_N.uasset" 1165
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Statue_N.uexp" 1166
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Statue_N.ubulk" 1167
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Statue_M.uasset" 1168
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Statue_M.uexp" 1169
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Statue_M.ubulk" 1170
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1171
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 1172
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Statue.uasset" 1173
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Statue.uexp" 1174
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Statue.uasset" 1175
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Statue.uexp" 1176
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1177
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_PillarFrame300.uexp" 1178
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_PillarFrame.uasset" 1179
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_PillarFrame.uexp" 1180
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_GlassWindow.uasset" 1181
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_GlassWindow.uexp" 1182
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_DoorFrame.uasset" 1183
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_DoorFrame.uexp" 1184
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_CornerFrame.uasset" 1185
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_CornerFrame.uexp" 1186
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Chair.uasset" 1187
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Chair.uexp" 1188
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/MaterialSphere.uasset" 1189
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/MaterialSphere.uexp" 1190
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1191
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 1192
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 1193
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1194
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 1195
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1196
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 1197
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1198
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 1199
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 1200
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1201
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 1202
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 1203
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1204
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 1205
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1206
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 1207
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 1208
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1209
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1210
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1211
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1212
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1213
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1214
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1215
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1216
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1217
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1218
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1219
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1220
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1221
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1222
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1223
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1224
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1226
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1227
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1228
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1229
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1230
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1231
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1232
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1233
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1234
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1235
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1236
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1237
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1238
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1239
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Water_M.uasset" 1240
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Water_M.uexp" 1241
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Water_M.ubulk" 1242
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Water_N.uasset" 1243
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Water_N.uexp" 1244
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Water_N.ubulk" 1245
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1246
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1247
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Water_Lake.uasset" 1248
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Water_Lake.uexp" 1249
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1250
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 1251
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1252
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1253
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 1254
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 1255
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1256
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1257
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1258
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1259
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Tech_Panel.uexp" 1260
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1261
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1262
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1263
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1264
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1265
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1266
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1267
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1268
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1269
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1270
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1271
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1272
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1273
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1274
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 1275
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1276
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1277
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 1278
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 1279
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1280
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 1281
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1282
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1283
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1284
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1285
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1286
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1287
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1288
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1289
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1290
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1291
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1292
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1293
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1294
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1295
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1296
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1297
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1298
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1299
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1300
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1301
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1302
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1303
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1304
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1305
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1306
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1307
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1308
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1309
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1310
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1311
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1312
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1313
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1314
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1315
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1316
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1317
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1318
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1319
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1320
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1321
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1322
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1323
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1324
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1325
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1326
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1327
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1328
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1329
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1330
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1331
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 1332
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 1333
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1334
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 1335
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1336
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1337
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1338
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1339
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1340
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1341
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1342
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1343
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1344
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1345
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1346
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1347
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1348
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1349
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1350
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1351
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1352
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1353
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1354
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1355
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1356
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1357
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1358
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1359
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1360
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1361
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1362
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1363
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1364
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1365
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1366
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1367
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1368
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1369
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1370
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1371
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1372
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1373
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1374
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1375
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1376
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1377
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1378
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1379
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1380
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1381
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1382
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1383
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1384
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1385
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1386
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1387
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1388
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1389
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1390
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1391
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1392
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1393
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1394
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1395
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1396
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1397
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1398
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1399
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1400
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1401
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1402
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1403
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1404
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1405
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1406
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1407
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1408
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1409
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1410
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1411
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1412
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1413
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1414
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1415
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1416
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1417
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1418
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1419
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1420
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1421
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1422
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1423
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1424
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1425
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1426
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1427
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1428
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1429
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1430
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1431
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1432
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1433
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1434
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1435
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1436
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1437
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1438
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1439
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1440
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1441
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1442
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1443
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1444
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1445
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1446
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1447
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1448
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1449
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1450
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1451
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1452
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1453
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1454
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1455
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1456
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1457
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1458
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1459
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1460
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1461
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1462
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1463
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1464
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1465
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1466
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1467
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1468
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1469
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1470
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1471
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1472
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1473
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1474
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1475
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1476
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1477
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1478
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1479
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1480
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1481
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1482
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1483
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1484
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1485
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1486
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1487
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1488
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1489
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1490
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1491
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1492
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Lamp_N.uasset" 1493
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Lamp_N.uexp" 1494
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1495
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Lamp_M.uasset" 1496
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Lamp_M.uexp" 1497
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1498
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1499
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1500
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1501
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1502
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1503
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1504
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1505
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1506
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Steam01_Cue.uasset" 1507
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Steam01_Cue.uexp" 1508
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1509
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1510
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1511
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1512
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Spark_Core.uasset" 1513
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Spark_Core.uexp" 1514
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1515
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1516
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1517
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1518
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1519
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Sparks.uasset" 1520
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Sparks.uexp" 1521
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1522
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1523
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Smoke.uasset" 1524
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Smoke.uexp" 1525
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1526
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1527
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1528
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1529
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Fire01_Cue.uasset" 1530
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Fire01_Cue.uexp" 1531
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1532
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1533
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1534
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1535
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1536
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1537
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1538
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1539
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1540
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1541
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Fire.uasset" 1542
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Particles/P_Fire.uexp" 1543
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1544
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1545
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1546
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1547
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1548
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1549
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1550
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1551
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/StarterMap.uexp" 1552
+"E:/Epic Games/Unreal Projects/UE4/ShootThemUp/Content/StarterContent/Maps/StarterMap.umap" 1553
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1554
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1555
+"../../../Engine/Content/Maps/Entry.uexp" 1556
+"../../../Engine/Content/Maps/Entry.umap" 1557
