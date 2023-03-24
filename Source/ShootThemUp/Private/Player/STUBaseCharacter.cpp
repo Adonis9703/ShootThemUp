@@ -43,8 +43,6 @@ void ASTUBaseCharacter::Tick(float DeltaTime)
     Super::Tick(DeltaTime);
     const auto Health = HealthComponent->GetHealth();
     HealthTextComponent->SetText(FText::FromString(FString::Printf(TEXT("%.0f"), Health)));
-
-    TakeDamage(0.1f, FDamageEvent(), Controller, this);
 }
 
 // Called to bind functionality to input
@@ -108,7 +106,7 @@ void ASTUBaseCharacter::OnStopRunning()
     WantsToRun = false;
 }
 
-// 只有一个入参，可以直接在BindAxis方法内绑定， 因为BindAxis会返回一个float
+// 只锟斤拷一锟斤拷锟斤拷危锟斤拷锟斤拷锟街憋拷锟斤拷锟紹indAxis锟斤拷锟斤拷锟节绑定ｏ拷 锟斤拷为BindAxis锟结返锟斤拷一锟斤拷float
 // void ASTUBaseCharacter::LookUp(float Amount) {
 //    AddControllerPitchInput(Amount);
 //}
