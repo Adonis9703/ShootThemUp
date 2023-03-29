@@ -20,7 +20,7 @@ public:
     float GetHealth() const { return Health; }
 
     UFUNCTION(BlueprintCallable)
-    bool IsDead() const { return Health <= 0.0f; }
+    bool IsDead() const { return FMath::IsNearlyZero(Health); }
 
     FOnDeath OnDeath;
     FOnHealthChanged OnHealthChanged;
@@ -28,11 +28,28 @@ public:
 protected:
     UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Health", meta = (ClampMin = "0.0", ClampMax = "100.0"))
     float MaxHealth = 100.0f;
+
+    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Heal")
+    bool AutoHeal = true;
+
+    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Heal")
+    float HealFrequency = 1.0f;
+
+    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Heal")
+    float HealDelay = 3.0f;
+
+    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Heal")
+    float HealModifier = 5.0f;
+
     virtual void BeginPlay() override;
 
 private:
     float Health = 0.0f;
+    FTimerHandle HealTimerHandle;
     UFUNCTION()
     void OnTakeAnyDamage(
         AActor* DamagedActor, float Damage, const UDamageType* DamageType, AController* InstigatedBy, AActor* DamageCauser);
+
+    void HealUpdate();
+    void SetHealth(float NewHealth);
 };
