@@ -122,7 +122,7 @@ void ASTUBaseCharacter::OnDeath()
     UE_LOG(BaseCharacterLog, Display, TEXT("Player %s is dead"), *GetName());
     PlayAnimMontage(DeathAnimMontage);
     GetCharacterMovement()->DisableMovement();
-    SetLifeSpan(3.0f);
+    SetLifeSpan(LifeSpanOnDeath);
 
     if (Controller)
     {
@@ -132,7 +132,7 @@ void ASTUBaseCharacter::OnDeath()
 
 void ASTUBaseCharacter::OnGroundLanded(const FHitResult& Hit)
 {
-    const auto FallVelocityZ = -GetCharacterMovement()->Velocity.Z;
+    const auto FallVelocityZ = -GetVelocity().Z;
     UE_LOG(BaseCharacterLog, Display, TEXT("On landed: %f"), FallVelocityZ);
 
     if (FallVelocityZ < LandedDamageVelocity.X) return;
