@@ -55,13 +55,21 @@ void ASTUBaseWeapon::MakeShot()
 void ASTUBaseWeapon::Tick(float DeltaTime)
 {
     Super::Tick(DeltaTime);
-
 }
 
-void ASTUBaseWeapon::Fire()
+void ASTUBaseWeapon::StartFire()
 {
-    UE_LOG(LogBaseWeapon, Display, TEXT("Fire!"));
+    const auto Player = Cast<ACharacter>(GetOwner());
+    if (!Player)
+        return;
     MakeShot();
+    GetWorldTimerManager().SetTimer(ShotTimerHandle, this, &ASTUBaseWeapon::MakeShot, TimeBetweenShots, true);
+    UE_LOG(LogBaseWeapon, Display, TEXT("Fire"));
+}
+
+void ASTUBaseWeapon::StopFire()
+{
+    GetWorldTimerManager().ClearTimer(ShotTimerHandle);
 }
 
 APlayerController* ASTUBaseWeapon::GetPlayerController() const
@@ -99,7 +107,8 @@ bool ASTUBaseWeapon::GetTraceData(FVector& TraceStart, FVector& TraceEnd) const
         return false;
 
     TraceStart = ViewLocation;
-    const FVector ShootDirection = ViewRotation.Vector();
+    const auto HalfRad = FMath::DegreesToRadians(BulletSpreed);
+    const FVector ShootDirection = FMath::VRandCone(ViewRotation.Vector(), HalfRad) ;
     TraceEnd = TraceStart + ShootDirection * TraceMaxDistance;
     return true;
 }

@@ -32,6 +32,12 @@ protected:
     UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
     float DamageAmount = 10.0f;
 
+    UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+    float TimeBetweenShots = 0.1f;
+
+    UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+    float BulletSpreed = 1.5f;
+
     void MakeShot();
     APlayerController* GetPlayerController() const;
     FVector GetMuzzleWorldLocation() const;
@@ -42,5 +48,9 @@ protected:
 public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-    virtual void Fire();
+    virtual void StartFire();
+    virtual void StopFire();
+
+private:
+    FTimerHandle ShotTimerHandle;
 };
