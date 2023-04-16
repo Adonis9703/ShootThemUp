@@ -99,6 +99,12 @@ void ASTUBaseWeapon::ChangeClip()
     UE_LOG(LogBaseWeapon, Display, TEXT("##### Change Clip #####"));
 }
 
+bool ASTUBaseWeapon::CanReload() const
+{
+    // todo complete
+    return true;
+}
+
 void ASTUBaseWeapon::LogAmmo()
 {
     FString AmmoInfo = "Ammo: " + FString::FromInt(CurrentAmmo.Bullets) + " / ";

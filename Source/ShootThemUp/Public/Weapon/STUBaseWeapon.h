@@ -22,6 +22,11 @@ public:
     virtual void StartFire();
     virtual void StopFire();
 
+    void ChangeClip();
+    bool CanReload() const; // todo 为什么会在base类里??
+
+    FOnClipEmptySignature OnClipEmpty;
+
 protected:
     // Called when the game starts or when spawned
     virtual void BeginPlay() override;
@@ -47,7 +52,7 @@ protected:
     void DecreaseAmmo();
     bool IsAmmoEmpty() const;
     bool IsClipEmpty() const;
-    void ChangeClip();
+
     void LogAmmo();
 
 private:
