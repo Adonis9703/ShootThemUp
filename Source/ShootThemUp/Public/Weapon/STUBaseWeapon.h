@@ -4,24 +4,12 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "STUCoreTypes.h"
 #include "STUBaseWeapon.generated.h"
 
 class USkeletalMeshComponent;
 
-USTRUCT(BlueprintType)
-struct FAmmoData
-{
-    GENERATED_USTRUCT_BODY()
 
-    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Weapon")
-    int32 Bullets;
-
-    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Weapon", meta = (EditCondition = "!Infinite"))
-    int32 Clips;
-
-    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Weapon")
-    bool Infinite;
-};
 
 UCLASS()
 class SHOOTTHEMUP_API ASTUBaseWeapon : public AActor
@@ -31,6 +19,8 @@ class SHOOTTHEMUP_API ASTUBaseWeapon : public AActor
 public:
     // Sets default values for this actor's properties
     ASTUBaseWeapon();
+    virtual void StartFire();
+    virtual void StopFire();
 
 protected:
     // Called when the game starts or when spawned
@@ -66,6 +56,4 @@ private:
 public:
     // Called every frame
     virtual void Tick(float DeltaTime) override;
-    virtual void StartFire();
-    virtual void StopFire();
 };
