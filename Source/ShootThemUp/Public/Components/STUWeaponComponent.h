@@ -45,6 +45,8 @@ private:
     void PlayAnimMontage(UAnimMontage* Animation);
     void InitAnimation();
     void OnEquipFinished(USkeletalMeshComponent* MeshComponent);
+    bool CanFire() const;
+    bool CanEquip() const;
 
     UPROPERTY()
     ASTUBaseWeapon* CurrentWeapon = nullptr;
@@ -53,4 +55,5 @@ private:
     TArray<ASTUBaseWeapon*> Weapons;
 
     int32 CurrentWeaponIndex = 0;
+    bool EquipAnimInProgress = false;
 };
